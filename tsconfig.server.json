@@ -1,0 +1,9 @@
+{
+    "extends": "./tsconfig.json", // Gets all options from tsconfig.json
+    "compilerOptions": {
+        "module": "commonjs", // Use commonjs as the module pattern in order to make both express and next work together
+        "outDir": "dist", // Compile all .ts files in the server directory to .js and send to the dist directory
+        "noEmit": false // TS compiler compile and output our server files
+    },
+    "include": ["server"] // TS Compiler know only compiling .ts files in the server/ directory
+}

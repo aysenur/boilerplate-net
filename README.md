@@ -1,1 +1,1 @@
-# boilerplate-net
+# Boilerplate with Next, Express, Typescript
