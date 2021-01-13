@@ -1,1 +1,1 @@
-# Boilerplate with Next, Express, Typescript
+# Boilerplate with NextExpressTypescript
