@@ -1,5 +1,6 @@
-function IndexPage() {
+
+function Index() {
     return (<div>Hello World!</div>)
 }
 
-export default IndexPage;
+export default Index;

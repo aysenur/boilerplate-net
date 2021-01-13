@@ -18,8 +18,8 @@ const port = process.env.PORT || '3000';
                 if(err) throw err;
                 console.log(`Ready on Port ${port} - env ${process.env.NODE_ENV}`);
             });
-        } catch(error) {
-            console.log(error);
+        } catch(exception) {
+            console.log(exception.stack);
             process.exit(1);
         }
     }
