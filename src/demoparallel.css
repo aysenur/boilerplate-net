@@ -1,0 +1,15 @@
+:root {
+            --m-color-primary: #AB3FE0 !important;
+            --m-color-primary-rgb: 171, 63, 224 !important;
+            --m-color-primary-contrast: #FFFFFF !important;
+            --m-color-primary-contrast-rgb: 255, 255, 255 !important;
+            --m-color-primary-shade: #58147a !important;
+            --m-color-primary-tint: #9120c9 !important;
+            --m-color-secondary: #212121 !important;
+            --m-color-secondary-rgb: 33, 33, 33 !important;
+            --m-color-secondary-contrast: #FFFFFF !important;
+            --m-color-secondary-contrast-rgb: 255, 255, 255 !important;
+            --m-color-secondary-shade: #000000 !important;
+            --m-color-secondary-tint: #060606 !important;
+            --m-color-base: #242424 !important;
+    }
